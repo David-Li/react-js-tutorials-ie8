@@ -4,4 +4,4 @@
 
 
 - [`This tutorial is based on https://github.com/learncodeacademy/react-js-tutorials`](https://github.com/learncodeacademy/react-js-tutorials)
-- [`IE8 polyfill reference https://github.com/xcatliu/react-ie8`](https://github.com/xcatliu/react-ie8)
+- [`IE8 polyfills reference https://github.com/xcatliu/react-ie8`](https://github.com/xcatliu/react-ie8)
