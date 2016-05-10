@@ -1,6 +1,6 @@
 # react-js-tutorial-ie8
 
-#### 1-practice  & 3-practice-redux work well in ie8
+#### ```1-practice , 1-practice  3-practice-redux``` work well in ie8
 
 
 - [`This tutorial is based on https://github.com/learncodeacademy/react-js-tutorials`](https://github.com/learncodeacademy/react-js-tutorials)
